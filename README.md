@@ -1,4 +1,4 @@
-Hi, I'm Radika 👋
+Hi, I'm Radhika 👋
 
 I'm an aspiring Java Full Stack Developer passionate about building practical applications and continuously improving my problem-solving skills. I enjoy developing projects, learning modern web technologies, and strengthening my understanding of backend development.
 
@@ -22,35 +22,11 @@ Languages:Java, Python, C, JavaScript
 
 Web Technologies: HTML, CSS
 
-Database: SQL (Learning)
+Database: SQL 
 
 Frameworks: Spring Boot (Learning)
 
 Tools: Git, GitHub, VS Code, Eclipse IDE
-
-📌 Projects
-
-🔹 Shopping Cart System (Python, CLI)
-
-Add and remove items with dynamic price calculation
-Implemented loops, conditionals, and modular functions
-Includes user input validation
-
-🔗 GitHub Repo: <PRIVATE_URL>
-
-🔹 Timer Clock App (Python)
-
-Countdown timer with real-time updates
-Built using Python's `time` module and loops
-
-🔗 GitHub Repo: <PRIVATE_URL>
-
-🔹 Python Quiz Game (CLI)
-
-Multiple-choice quiz with score tracking
-Built using functions, lists, and modular programming
-
-🔗 GitHub Repo: <PRIVATE_URL>
 
 📈 Currently Learning
 
@@ -65,6 +41,6 @@ Full Stack Development
 
 📧 Email:radhikajk890@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/radhika-kumari
+🔗 LinkedIn: https://www.linkedin.com/in/radhika-kumari-9a87a4182
 
 🔗 GitHub: https://github.com/RADIKA-KUMARI
